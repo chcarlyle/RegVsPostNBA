@@ -1,1 +1,5 @@
 Data Map
+##Master.csv##
+ contains the game-level VORP for every player and every gam
+##top100minsResults.csv##
+ contains the p-values for t-tests, ks-tests, and ad-tests (including adjusted p-values) for the top 100 playoff minutes players (excluding those who mainly played before VORP)

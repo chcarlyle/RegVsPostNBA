@@ -1,5 +1,0 @@
-"Rk" "G" "Date" "Age" "Tm" "H/A" "Opp" "W/L" "By Amt" "GS" "MP" "TS%" "eFG%" "ORB%" "DRB%" "TRB%" "AST%" "STL%" "BLK%" "TOV%" "USG%" "ORtg" "DRtg" "GmSc" "BPM"
-"1" "1" 1961-11-22 24.16 "STL" "@" "BOS" "L" -20 NA 12 0.286 0.286 NA NA NA NA NA NA NA NA NA NA NA NA
-"2" "2" 1961-11-23 24.16 "STL" "" "LAL" "L" -8 NA 4 0 0 NA NA NA NA NA NA NA NA NA NA NA NA
-"3" "3" 1961-11-24 24.16 "STL" "" "DET" "L" -7 NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA
-"4" "4" 1961-11-25 24.17 "STL" "" "SYR" "W" 33 NA 10 0.525 0.333 NA NA NA NA NA NA NA NA NA NA NA NA

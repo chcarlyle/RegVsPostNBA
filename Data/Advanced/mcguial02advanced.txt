@@ -1,3 +1,0 @@
-"Rk" "G" "Date" "Age" "Tm" "H/A" "Opp" "W/L" "By Amt" "GS" "MP" "TS%" "eFG%" "ORB%" "DRB%" "TRB%" "AST%" "STL%" "BLK%" "TOV%" "USG%" "ORtg" "DRtg" "GmSc" "BPM"
-"1" "1" 1973-10-16 22.27 "NYK" NA "BUF" "W" 26 0 6 1 NA NA NA NA NA NA NA NA NA NA NA NA NA
-"2" "2" 1973-10-20 22.28 "NYK" NA "CHI" "L" -16 0 4 0.333 NA NA NA NA NA NA NA NA NA NA NA NA NA

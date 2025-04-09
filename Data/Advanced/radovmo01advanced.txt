@@ -1,5 +1,0 @@
-"Rk" "G" "Date" "Age" "Tm" "H/A" "Opp" "W/L" "By Amt" "GS" "MP" "TS%" "eFG%" "ORB%" "DRB%" "TRB%" "AST%" "STL%" "BLK%" "TOV%" "USG%" "ORtg" "DRtg" "GmSc" "BPM"
-"1" "1" 1952-11-01 23.49 "PHW" "" "SYR" "W" 2 NA NA 0.347 NA NA NA NA NA NA NA NA NA NA NA NA NA
-"2" "2" 1952-11-02 23.5 "PHW" "@" "SYR" "L" -26 NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA
-"3" "3" 1952-11-08 23.51 "PHW" "" "MNL" "L" -22 NA NA 0.667 NA NA NA NA NA NA NA NA NA NA NA NA NA
-"4" "4" 1952-11-14 23.53 "PHW" "" "INO" "L" -6 NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA

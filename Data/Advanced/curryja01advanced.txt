@@ -1,3 +1,0 @@
-"Rk" "G" "Date" "Age" "Tm" "H/A" "Opp" "W/L" "By Amt" "GS" "MP" "TS%" "eFG%" "ORB%" "DRB%" "TRB%" "AST%" "STL%" "BLK%" "TOV%" "USG%" "ORtg" "DRtg" "GmSc" "BPM"
-"1" NA 2010-01-24 24.05 "LAC" "@" "WAS" "W" 14 NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA
-"2" "1" 2010-01-25 24.05 "LAC" "@" "BOS" "L" -6 0 0.0666666666666667 NA NA 0 0 0 0 0 0 NA 0 0 108 0 -7

@@ -1,2 +1,0 @@
-"Rk" "G" "Date" "Age" "Tm" "H/A" "Opp" "W/L" "By Amt" "GS" "MP" "TS%" "eFG%" "ORB%" "DRB%" "TRB%" "AST%" "STL%" "BLK%" "TOV%" "USG%" "ORtg" "DRtg" "GmSc" "BPM"
-"1" "1" 1952-12-11 22.23 "BLB" NA "BOS" "L" -6 NA 9 0.46 NA NA NA NA NA NA NA NA NA NA NA NA NA

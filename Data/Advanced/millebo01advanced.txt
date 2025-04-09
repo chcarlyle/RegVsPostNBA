@@ -1,3 +1,0 @@
-"Rk" "G" "Date" "Age" "Tm" "H/A" "Opp" "W/L" "By Amt" "GS" "MP" "TS%" "eFG%" "ORB%" "DRB%" "TRB%" "AST%" "STL%" "BLK%" "TOV%" "USG%" "ORtg" "DRtg" "GmSc" "BPM"
-"1" "1" 1984-01-07 27.5 "SAS" "@" "GSW" "L" -21 0 3 0 0 0 26.7 13.9 0 0 13.2 0 11.3 0 114 -0.1 NA
-"2" "2" 1984-01-10 27.51 "SAS" "@" "POR" "L" -13 0 5 1 1 51.9 60 55.7 29.3 0 0 0 15.1 202 115 4.5 NA

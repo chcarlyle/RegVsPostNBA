@@ -1,2 +1,0 @@
-"Rk" "G" "Date" "Age" "Tm" "H/A" "Opp" "W/L" "By Amt" "GS" "MP" "TS%" "eFG%" "ORB%" "DRB%" "TRB%" "AST%" "STL%" "BLK%" "TOV%" "USG%" "ORtg" "DRtg" "GmSc" "BPM"
-"1" "1" 1985-10-26 27.99 "NJN" "@" "IND" "L" -27 0 5 1.136 NA 0 0 0 0 0 0 0 7.2 250 116 1.6 0.7

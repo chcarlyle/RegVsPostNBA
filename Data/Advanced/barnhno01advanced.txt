@@ -1,5 +1,0 @@
-"Rk" "G" "Date" "Age" "Tm" "H/A" "Opp" "W/L" "By Amt" "GS" "MP" "TS%" "eFG%" "ORB%" "DRB%" "TRB%" "AST%" "STL%" "BLK%" "TOV%" "USG%" "ORtg" "DRtg" "GmSc" "BPM"
-"1" "1" 1976-10-24 23.28 "SEA" "" "NYN" "W" 11 0 2 0 NA NA NA NA NA NA NA NA NA NA NA NA NA
-"2" "2" 1976-10-26 23.28 "SEA" "@" "IND" "L" -30 0 2 0 NA NA NA NA NA NA NA NA NA NA NA NA NA
-"3" "3" 1976-10-27 23.28 "SEA" "@" "DET" "L" -14 0 3 1 NA NA NA NA NA NA NA NA NA NA NA NA NA
-"4" "4" 1976-10-31 23.3 "SEA" "" "ATL" "W" 14 0 3 0.333 NA NA NA NA NA NA NA NA NA NA NA NA NA

@@ -1,6 +1,0 @@
-"Rk" "G" "Date" "Age" "Tm" "H/A" "Opp" "W/L" "By Amt" "GS" "MP" "TS%" "eFG%" "ORB%" "DRB%" "TRB%" "AST%" "STL%" "BLK%" "TOV%" "USG%" "ORtg" "DRtg" "GmSc" "BPM"
-"1" "1" 1973-10-16 23.69 "BUF" "@" "NYK" "L" -26 NA 3 0 0 NA NA NA NA NA NA NA NA NA NA NA NA
-"2" "2" 1973-10-24 23.72 "BUF" "@" "MIL" "L" -17 0 2 0.5 0.5 NA NA NA NA NA NA NA NA NA NA NA NA
-"3" "3" 1973-10-27 23.72 "BUF" "@" "CLE" "W" 10 0 1 NA NA NA NA NA NA NA NA NA NA NA NA NA NA
-"4" "4" 1973-11-07 23.75 "BUF" "@" "SEA" "L" -17 NA 1 NA NA NA NA NA NA NA NA NA NA NA NA NA NA
-"5" "5" 1973-11-20 23.79 "BUF" "" "PHO" "W" 27 0 3 0 0 NA NA NA NA NA NA NA NA NA NA NA NA

@@ -1,2 +1,0 @@
-"Rk" "G" "Date" "Age" "Tm" "H/A" "Opp" "W/L" "By Amt" "GS" "MP" "TS%" "eFG%" "ORB%" "DRB%" "TRB%" "AST%" "STL%" "BLK%" "TOV%" "USG%" "ORtg" "DRtg" "GmSc" "BPM"
-"1" "1" 1982-04-09 23.96 "POR" NA "SDC" "W" 20 0 7 1 1 NA NA NA NA NA NA NA NA NA NA -1.1 NA

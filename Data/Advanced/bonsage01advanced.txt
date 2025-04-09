@@ -1,4 +1,0 @@
-"Rk" "G" "Date" "Age" "Tm" "H/A" "Opp" "W/L" "By Amt" "GS" "MP" "TS%" "eFG%" "ORB%" "DRB%" "TRB%" "AST%" "STL%" "BLK%" "TOV%" "USG%" "ORtg" "DRtg" "GmSc" "BPM"
-"1" "1" 1961-10-28 26.33 "CHP" "@" "STL" "L" -27 NA 3 0.333 NA NA NA NA NA NA NA NA NA NA NA NA NA
-"2" "2" 1961-11-08 26.36 "CHP" "" "NYK" "L" -22 NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA
-"3" "3" 1961-11-10 26.36 "CHP" "@" "CIN" "L" -5 NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA

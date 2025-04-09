@@ -1,3 +1,0 @@
-"Rk" "G" "Date" "Age" "Tm" "H/A" "Opp" "W/L" "By Amt" "GS" "MP" "TS%" "eFG%" "ORB%" "DRB%" "TRB%" "AST%" "STL%" "BLK%" "TOV%" "USG%" "ORtg" "DRtg" "GmSc" "BPM"
-"1" "1" 1981-01-15 25.91 "WSB" "@" "DET" "W" 17 0 1 NA NA NA NA NA NA NA NA NA NA NA NA NA NA
-"2" "2" 1981-01-18 25.92 "WSB" "" "NJN" "W" 11 0 4 0.192 0 NA NA NA NA NA NA NA NA NA NA NA NA

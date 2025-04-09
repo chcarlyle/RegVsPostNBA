@@ -1,2 +1,0 @@
-"Rk" "G" "Date" "Age" "Tm" "H/A" "Opp" "W/L" "By Amt" "GS" "MP" "TS%" "eFG%" "ORB%" "DRB%" "TRB%" "AST%" "STL%" "BLK%" "TOV%" "USG%" "ORtg" "DRtg" "GmSc" "BPM"
-"1" "1" 1956-10-28 24.25 "SYR" NA "ROC" "W" 16 NA 1 0 NA NA NA NA NA NA NA NA NA NA NA NA NA

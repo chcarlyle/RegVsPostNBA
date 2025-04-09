@@ -1,5 +1,0 @@
-"Rk" "G" "Date" "Age" "Tm" "H/A" "Opp" "W/L" "By Amt" "GS" "MP" "TS%" "eFG%" "ORB%" "DRB%" "TRB%" "AST%" "STL%" "BLK%" "TOV%" "USG%" "ORtg" "DRtg" "GmSc" "BPM"
-"1" "1" 1970-10-14 23.51 "BAL" NA "SDR" "W" 18 NA 4 0.347 0 NA NA NA NA NA NA NA NA NA NA NA NA
-"2" "2" 1970-10-20 23.53 "BAL" NA "SFW" "L" -20 0 2 0.5 0.5 NA NA NA NA NA NA NA NA NA NA NA NA
-"1" "1" 1970-10-14 23.51 "BAL" NA "SDR" "W" 18 NA 4 0.347 0 NA NA NA NA NA NA NA NA NA NA NA NA
-"2" "2" 1970-10-20 23.53 "BAL" NA "SFW" "L" -20 0 2 0.5 0.5 NA NA NA NA NA NA NA NA NA NA NA NA

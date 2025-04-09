@@ -1,5 +1,0 @@
-"Rk" "G" "Date" "Age" "Tm" "H/A" "Opp" "W/L" "By Amt" "GS" "MP" "TS%" "eFG%" "ORB%" "DRB%" "TRB%" "AST%" "STL%" "BLK%" "TOV%" "USG%" "ORtg" "DRtg" "GmSc" "BPM"
-"1" "1" 1955-11-06 23.54 "ROC" "" "SYR" "W" 3 NA NA 0 NA NA NA NA NA NA NA NA NA NA NA NA NA
-"2" "2" 1955-11-23 23.59 "ROC" "@" "STL" "L" -2 NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA
-"3" "3" 1955-11-26 23.6 "ROC" "" "BOS" "L" -1 NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA
-"4" "4" 1956-01-08 23.72 "ROC" "@" "BOS" "W" 2 NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA

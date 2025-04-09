@@ -1,8 +1,0 @@
-"Rk" "G" "Date" "Age" "Tm" "H/A" "Opp" "W/L" "By Amt" "GS" "MP" "TS%" "eFG%" "ORB%" "DRB%" "TRB%" "AST%" "STL%" "BLK%" "TOV%" "USG%" "ORtg" "DRtg" "GmSc" "BPM"
-"1" "1" 1979-10-12 21.85 "UTA" "@" "POR" "L" -16 0 10 0.852 NA NA NA NA NA NA NA NA NA NA NA 2.3 NA
-"2" "2" 1979-10-15 21.86 "UTA" "" "MIL" "L" -24 0 5 0.431 0 NA NA NA NA NA NA NA NA NA NA 1.8 NA
-"3" "3" 1979-10-18 21.87 "UTA" "" "POR" "L" -15 0 13 0.333 0.333 NA NA NA NA NA NA NA NA NA NA 1.6 NA
-"4" "4" 1979-10-23 21.88 "UTA" "@" "LAL" "L" -15 0 3 0.5 0.5 NA NA NA NA NA NA NA NA NA NA 1.6 NA
-"5" "5" 1979-10-25 21.88 "UTA" "" "CHI" "W" 8 0 10 0 0 NA NA NA NA NA NA NA NA NA NA 0 NA
-"6" "6" 1979-10-27 21.89 "UTA" "@" "DEN" "L" -20 0 4 0 0 NA NA NA NA NA NA NA NA NA NA -0.7 NA
-"7" "7" 1979-10-31 21.9 "UTA" "@" "KCK" "L" -17 0 3 0 0 NA NA NA NA NA NA NA NA NA NA NA NA

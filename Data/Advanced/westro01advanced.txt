@@ -1,5 +1,0 @@
-"Rk" "G" "Date" "Age" "Tm" "H/A" "Opp" "W/L" "By Amt" "GS" "MP" "TS%" "eFG%" "ORB%" "DRB%" "TRB%" "AST%" "STL%" "BLK%" "TOV%" "USG%" "ORtg" "DRtg" "GmSc" "BPM"
-"1" "1" 1967-10-18 23.37 "BAL" "" "NYK" "W" 23 NA 4 0.667 NA NA NA NA NA NA NA NA NA NA NA NA NA
-"2" "2" 1967-10-25 23.39 "BAL" "@" "SDR" "W" 16 NA 2 0 NA NA NA NA NA NA NA NA NA NA NA NA NA
-"3" "3" 1967-11-04 23.41 "BAL" "@" "DET" "L" -9 NA 6 NA NA NA NA NA NA NA NA NA NA NA NA NA NA
-"4" "4" 1968-03-20 23.79 "BAL" "" "PHI" "L" -18 NA 2 0 NA NA NA NA NA NA NA NA NA NA NA NA NA

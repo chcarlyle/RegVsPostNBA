@@ -1,0 +1,5 @@
+"Rk" "G" "Date" "Age" "Tm" "H/A" "Opp" "W/L" "By Amt" "GS" "MP" "TS%" "eFG%" "ORB%" "DRB%" "TRB%" "AST%" "STL%" "BLK%" "TOV%" "USG%" "ORtg" "DRtg" "GmSc" "BPM"
+"1" "1" 1953-11-07 24.64 "PHW" "" "BOS" "L" -2 NA NA 0 NA NA NA NA NA NA NA NA NA NA NA NA NA
+"2" "2" 1953-11-08 24.64 "PHW" "@" "BLB" "W" 10 NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA
+"3" "3" 1953-11-12 24.65 "PHW" "@" "NYK" "L" -16 NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA
+"4" "4" 1953-11-19 24.67 "PHW" "" "MNL" "L" -28 NA NA 0 NA NA NA NA NA NA NA NA NA NA NA NA NA

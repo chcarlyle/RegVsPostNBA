@@ -1,0 +1,5 @@
+"Rk" "G" "Date" "Age" "Tm" "H/A" "Opp" "W/L" "By Amt" "GS" "MP" "TS%" "eFG%" "ORB%" "DRB%" "TRB%" "AST%" "STL%" "BLK%" "TOV%" "USG%" "ORtg" "DRtg" "GmSc" "BPM"
+"1" "1" 1957-10-23 25.98 "DET" "" "BOS" "L" -11 NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA
+"2" "2" 1957-10-26 25.99 "DET" "" "PHW" "L" -12 NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA
+"3" "3" 1957-10-30 26 "DET" "@" "MNL" "W" 19 NA NA 0.5 NA NA NA NA NA NA NA NA NA NA NA NA NA
+"4" "4" 1957-11-05 26.02 "DET" "" "BOS" "L" -6 NA 5 0.5 NA NA NA NA NA NA NA NA NA NA NA NA NA

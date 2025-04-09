@@ -1,0 +1,2 @@
+"Rk" "G" "Date" "Age" "Tm" "H/A" "Opp" "W/L" "By Amt" "GS" "MP" "TS%" "eFG%" "ORB%" "DRB%" "TRB%" "AST%" "STL%" "BLK%" "TOV%" "USG%" "ORtg" "DRtg" "GmSc" "BPM"
+"1" "1" 1953-10-31 23.36 "PHW" NA "SYR" "W" 6 NA 1 NA NA NA NA NA NA NA NA NA NA NA NA NA NA

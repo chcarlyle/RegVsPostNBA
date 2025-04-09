@@ -1,0 +1,2 @@
+"Rk" "G" "Date" "Age" "Tm" "H/A" "Opp" "W/L" "By Amt" "GS" "MP" "TS%" "eFG%" "ORB%" "DRB%" "TRB%" "AST%" "STL%" "BLK%" "TOV%" "USG%" "ORtg" "DRtg" "GmSc" "BPM"
+"1" "1" 1970-11-14 22.81 "POR" NA "CLE" "W" 10 0 2 0.667 NA NA NA NA NA NA NA NA NA NA NA NA NA

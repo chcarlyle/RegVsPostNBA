@@ -1,0 +1,6 @@
+"Rk" "G" "Date" "Age" "Tm" "H/A" "Opp" "W/L" "By Amt" "GS" "MP" "TS%" "eFG%" "ORB%" "DRB%" "TRB%" "AST%" "STL%" "BLK%" "TOV%" "USG%" "ORtg" "DRtg" "GmSc" "BPM"
+"1" "1" 1956-10-27 21.77 "STL" "" "MNL" "W" 22 NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA
+"2" "2" 1956-11-03 21.79 "STL" "" "SYR" "L" -2 NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA
+"3" "3" 1956-11-07 21.8 "STL" "" "NYK" "W" 6 NA 9 0.644 NA NA NA NA NA NA NA NA NA NA NA NA NA
+"4" "4" 1956-11-11 21.81 "STL" "@" "FTW" "L" -15 NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA
+"5" "5" 1956-11-18 21.83 "STL" "@" "NYK" "L" -33 NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA

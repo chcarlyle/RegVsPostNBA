@@ -1,0 +1,7 @@
+"Rk" "G" "Date" "Age" "Tm" "H/A" "Opp" "W/L" "By Amt" "GS" "MP" "TS%" "eFG%" "ORB%" "DRB%" "TRB%" "AST%" "STL%" "BLK%" "TOV%" "USG%" "ORtg" "DRtg" "GmSc" "BPM"
+"1" "1" 1980-10-11 26.48 "DAL" "" "SAS" "W" 11 0 8 1 1 NA NA NA NA NA NA NA NA NA NA NA NA
+"2" "2" 1980-10-14 26.48 "DAL" "" "SEA" "L" -2 0 16 0 0 NA NA NA NA NA NA NA NA NA NA NA NA
+"3" "3" 1980-10-15 26.49 "DAL" "@" "DEN" "L" -35 0 18 0.26 0.25 NA NA NA NA NA NA NA NA NA NA -1.5 NA
+"4" "4" 1980-10-17 26.49 "DAL" "" "KCK" "L" -12 0 5 1 1 NA NA NA NA NA NA NA NA NA NA NA NA
+"5" "5" 1980-10-18 26.5 "DAL" "@" "SAS" "L" -14 0 18 0.8 0.8 NA NA NA NA NA NA NA NA NA NA NA NA
+"6" "6" 1980-10-21 26.5 "DAL" "@" "PHO" "L" -12 0 2 0 0 NA NA NA NA NA NA NA NA NA NA -1.8 NA

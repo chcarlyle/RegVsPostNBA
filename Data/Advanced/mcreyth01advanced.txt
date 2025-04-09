@@ -1,0 +1,6 @@
+"Rk" "G" "Date" "Age" "Tm" "H/A" "Opp" "W/L" "By Amt" "GS" "MP" "TS%" "eFG%" "ORB%" "DRB%" "TRB%" "AST%" "STL%" "BLK%" "TOV%" "USG%" "ORtg" "DRtg" "GmSc" "BPM"
+"1" "1" 1965-10-16 22.36 "BAL" "" "PHI" "L" -32 NA NA 0 NA NA NA NA NA NA NA NA NA NA NA NA NA
+"2" "2" 1965-10-20 22.37 "BAL" "" "STL" "W" 20 NA 7 0.25 NA NA NA NA NA NA NA NA NA NA NA NA NA
+"3" "3" 1965-10-23 22.38 "BAL" "" "SFW" "L" -15 NA 7 0 NA NA NA NA NA NA NA NA NA NA NA NA NA
+"4" "4" 1965-10-26 22.38 "BAL" "@" "DET" "W" 19 NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA
+"5" "5" 1965-10-29 22.39 "BAL" "" "CIN" "L" -10 NA NA 0.174 NA NA NA NA NA NA NA NA NA NA NA NA NA

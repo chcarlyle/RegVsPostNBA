@@ -1,0 +1,4 @@
+"Rk" "G" "Date" "Age" "Tm" "H/A" "Opp" "W/L" "By Amt" "GS" "MP" "TS%" "eFG%" "ORB%" "DRB%" "TRB%" "AST%" "STL%" "BLK%" "TOV%" "USG%" "ORtg" "DRtg" "GmSc" "BPM"
+"1" "1" 1981-01-27 28.14 "DET" "@" "DEN" "L" -20 0 7 0.75 0.75 NA NA NA NA NA NA NA NA NA NA NA NA
+"2" "2" 1981-01-29 28.14 "DET" "" "GSW" "L" -5 0 10 0.63 0.667 NA NA NA NA NA NA NA NA NA NA 4.8 NA
+"3" "3" 1981-02-03 28.16 "DET" "@" "SAS" "L" -3 0 2 0 0 NA NA NA NA NA NA NA NA NA NA NA NA

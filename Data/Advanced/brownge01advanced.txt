@@ -1,0 +1,2 @@
+"Rk" "G" "Date" "Age" "Tm" "H/A" "Opp" "W/L" "By Amt" "GS" "MP" "TS%" "eFG%" "ORB%" "DRB%" "TRB%" "AST%" "STL%" "BLK%" "TOV%" "USG%" "ORtg" "DRtg" "GmSc" "BPM"
+"1" "1" 1957-10-30 22 "MNL" NA "DET" "L" -19 NA 6 0.174 NA NA NA NA NA NA NA NA NA NA NA NA NA

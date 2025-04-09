@@ -1,0 +1,6 @@
+"Rk" "G" "Date" "Age" "Tm" "H/A" "Opp" "W/L" "By Amt" "GS" "MP" "TS%" "eFG%" "ORB%" "DRB%" "TRB%" "AST%" "STL%" "BLK%" "TOV%" "USG%" "ORtg" "DRtg" "GmSc" "BPM"
+"1" NA 2017-02-27 21.92 "DAL" "" "MIA" "W" 7 NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA
+"2" "1" 2017-03-01 21.92 "DAL" "@" "ATL" "L" -5 0 4.48333333333333 NA NA 0 0 0 0 0 0 NA 0 0 117 -0.4 -9.7
+"3" NA 2017-03-03 21.93 "DAL" "" "MEM" "W" 4 NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA
+"4" "2" 2017-03-05 21.93 "DAL" "" "OKC" "W" 15 0 2.58333333333333 NA NA 0 82.6 43.2 0 0 0 100 18.4 0 73 -0.4 -16.6
+"5" "3" 2017-03-07 21.94 "DAL" "" "LAL" "W" 11 0 2.8 0 0 0 0 0 0 0 0 0 48.8 0 122 -2.1 -60.5

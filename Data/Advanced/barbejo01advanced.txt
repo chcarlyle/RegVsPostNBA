@@ -1,0 +1,6 @@
+"Rk" "G" "Date" "Age" "Tm" "H/A" "Opp" "W/L" "By Amt" "GS" "MP" "TS%" "eFG%" "ORB%" "DRB%" "TRB%" "AST%" "STL%" "BLK%" "TOV%" "USG%" "ORtg" "DRtg" "GmSc" "BPM"
+"1" "1" 1957-02-03 29.61 "STL" "" "MNL" "W" 17 NA 4 0.42 NA NA NA NA NA NA NA NA NA NA NA NA NA
+"2" "2" 1957-02-10 29.62 "STL" "" "ROC" "W" 24 NA 5 1 NA NA NA NA NA NA NA NA NA NA NA NA NA
+"3" "3" 1957-02-11 29.63 "STL" "" "SYR" "W" 6 NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA
+"4" "4" 1957-02-15 29.64 "STL" "" "BOS" "L" -7 NA 3 0.174 NA NA NA NA NA NA NA NA NA NA NA NA NA
+"5" "5" 1957-02-17 29.64 "STL" "@" "MNL" "W" 3 NA NA 0 NA NA NA NA NA NA NA NA NA NA NA NA NA

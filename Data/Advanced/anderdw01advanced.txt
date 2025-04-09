@@ -1,0 +1,6 @@
+"Rk" "G" "Date" "Age" "Tm" "H/A" "Opp" "W/L" "By Amt" "GS" "MP" "TS%" "eFG%" "ORB%" "DRB%" "TRB%" "AST%" "STL%" "BLK%" "TOV%" "USG%" "ORtg" "DRtg" "GmSc" "BPM"
+"1" "1" 1982-12-30 22.01 "DEN" "" "BOS" "L" -13 0 3 NA NA NA NA NA NA NA NA NA NA NA NA 0.3 NA
+"2" "2" 1983-01-02 22.01 "DEN" "@" "POR" "L" -18 0 2 1 1 NA NA 0 0 NA 0 50 NA NA NA 1.7 NA
+"3" "3" 1983-01-04 22.02 "DEN" "" "KCK" "W" 16 0 1 0.266 0 NA NA 0 0 NA 0 0 NA NA NA -0.2 NA
+"4" "4" 1983-01-05 22.02 "DEN" "@" "KCK" "L" -20 0 20 0.581 0.5 NA NA 2.9 6.9 NA NA NA NA NA NA 0 NA
+"5" "5" 1983-01-07 22.03 "DEN" "" "HOU" "W" 28 0 7 0.666 0.6 NA NA NA NA NA NA NA NA NA NA 6.3 NA

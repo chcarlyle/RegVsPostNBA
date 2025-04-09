@@ -1,0 +1,4 @@
+"Rk" "G" "Date" "Age" "Tm" "H/A" "Opp" "W/L" "By Amt" "GS" "MP" "TS%" "eFG%" "ORB%" "DRB%" "TRB%" "AST%" "STL%" "BLK%" "TOV%" "USG%" "ORtg" "DRtg" "GmSc" "BPM"
+"1" "1" 1962-10-23 21.65 "CHZ" "" "STL" "L" -1 NA 3 NA NA NA NA NA NA NA NA NA NA NA NA NA NA
+"2" "2" 1962-10-26 21.65 "CHZ" "@" "SYR" "L" -18 NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA
+"3" "3" 1962-11-13 21.7 "CHZ" "@" "LAL" "L" -23 NA NA 0.368 NA NA NA NA NA NA NA NA NA NA NA NA NA

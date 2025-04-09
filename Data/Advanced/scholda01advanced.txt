@@ -1,0 +1,2 @@
+"Rk" "G" "Date" "Age" "Tm" "H/A" "Opp" "W/L" "By Amt" "GS" "MP" "TS%" "eFG%" "ORB%" "DRB%" "TRB%" "AST%" "STL%" "BLK%" "TOV%" "USG%" "ORtg" "DRtg" "GmSc" "BPM"
+"1" "1" 1969-10-29 21.55 "PHI" "@" "BAL" "W" 24 NA 1 1 NA NA NA NA NA NA NA NA NA NA NA NA NA

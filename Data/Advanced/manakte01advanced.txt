@@ -1,0 +1,6 @@
+"Rk" "G" "Date" "Age" "Tm" "H/A" "Opp" "W/L" "By Amt" "GS" "MP" "TS%" "eFG%" "ORB%" "DRB%" "TRB%" "AST%" "STL%" "BLK%" "TOV%" "USG%" "ORtg" "DRtg" "GmSc" "BPM"
+"1" "1" 1973-11-17 22.73 "KCO" "" "BOS" "L" -13 NA NA 0.532 NA NA NA NA NA NA NA NA NA NA NA NA NA
+"2" "2" 1973-11-20 22.74 "KCO" "" "PHI" "L" -6 NA 16 0.25 NA NA NA NA NA NA NA NA NA NA NA NA NA
+"3" "3" 1973-11-21 22.75 "KCO" "" "PHI" "L" -13 NA 17 0.5 NA NA NA NA NA NA NA NA NA NA NA NA NA
+"4" "4" 1973-11-23 22.75 "KCO" "@" "BOS" "L" -17 NA 2 NA NA NA NA NA NA NA NA NA NA NA NA NA NA
+"5" "5" 1973-11-24 22.75 "KCO" "@" "BUF" "L" -12 NA NA 1.064 NA NA NA NA NA NA NA NA NA NA NA NA NA

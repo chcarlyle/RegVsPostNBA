@@ -1,7 +1,7 @@
 setwd("..")
 library(kSamples)
 # Load the data
-master <- read.csv('Data\master.csv')
+master <- read.csv('Data/master.csv')
 master$type <- as.factor(master$type)
 
 top100mins <- c(
@@ -107,9 +107,6 @@ top100mins <- c(
   'korveky01'
 )
 
-class(top100$type)
-levels(top100$type)
-top100$type <- as.factor(top100$type)
 
 top100 <- master[master$player_id %in% top100mins, ]
 
@@ -135,8 +132,11 @@ perform_tests_on_top <- function(top100, master) {
     results <- rbind(results, data.frame(
       player_id = player,
       t_p_value = t_test_result$p.value,
+      t = t_test_result$statistic,
       ks_p_value = ks_test_result$p.value,
-      ad_p_value = ad_test_result$ad[6]
+      D = ks_test_result$statistic,
+      ad_p_value = ad_test_result$ad[6],
+      AD = ad_test_result$ad[2]
     ))
   }
   
@@ -150,8 +150,6 @@ res$kadj <- p.adjust(res$ks_p_value, method='BH')
 res$aadj <- p.adjust(res$ad_p_value, method='BH')
 
 write.csv(res, 'top100minsResults.csv', row.names=FALSE)
-
-
 
 
 library(tidyverse)
@@ -198,13 +196,6 @@ ggplot(summarystats, aes(x = year, y = `mean(vorp)`)) +
     y = "APVORP"
   )+
   ylim(0, 2.5)
-
-
-
-
-
-
-
 
 
 
